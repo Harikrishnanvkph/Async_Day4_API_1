@@ -68,7 +68,7 @@ function dropdownStatus(id){
 //This function will create a button and will return it
 function buttonCreate(val){
     var buttonDiv = document.createElement("div");
-    buttonDiv.className = "col-md-2";
+    buttonDiv.className = "col-2";
     var button = document.createElement("button");
     button.innerText = val;
     button.className = "btn-primary";
