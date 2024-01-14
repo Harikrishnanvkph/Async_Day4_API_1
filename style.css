@@ -11,17 +11,14 @@ nav{
 
 h1{
     margin: 20px;
+    font-size: 35px;
     color: #ff00a9;
 }
 
 .anchors{
     display: flex;
-    width: 50%;
+    width: 40%;
     justify-content: space-evenly;
-}
-
-#AllInAll{
-    /* display : none; */
 }
 
 .col-md-5{
